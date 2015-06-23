@@ -1,5 +1,5 @@
 # isTrue.js
-A useful function to check if a javascript object evaluates to `true`
+A useful method to check if a javascript object evaluates to `true`
 
 ## Getting started
 Bower:
