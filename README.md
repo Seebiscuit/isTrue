@@ -15,7 +15,7 @@ Or clone from github:
 `git clone https://github.com/codeocelot/istrue.git`.  
 
 ### node:
-`require("./path/to/repo/main.js");`
+`require("istrue");`
 
 ### html embedded js:
 `<script src="./path/to/main.js' type="text/javascript">`
