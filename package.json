@@ -1,6 +1,6 @@
 {
   "name": "istrue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A useful function to check if a javascript object evaluates to `true`",
   "main": "main.js",
   "scripts": {

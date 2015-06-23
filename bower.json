@@ -1,6 +1,6 @@
 {
   "name": "isTrue",
-  "version": "0.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/codeocelot/isTrue",
   "description": "A useful function to check if a javascript object evaluates to true",
   "main": "main.js",
