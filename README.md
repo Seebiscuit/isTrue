@@ -16,7 +16,7 @@ I haven't hosted this on npm/bower/require/whatever yet. For now,
 `mocha test.js`
 
 ## How to use
-`"is does this eval to true".isTrue() === true `
+`"does this eval to true".isTrue() === true `
 
 `"".isTrue() === false` 
 
