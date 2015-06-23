@@ -12,16 +12,13 @@ npm:
 
 Or clone from github:
 
-`git clone https://github.com/codeocelot/istrue.git`.  
+`git clone https://github.com/codeocelot/istrue.git`
 
 ### node:
 `require("istrue");`
 
 ### html embedded js:
-`<script src="./path/to/main.js' type="text/javascript">`
-
-### run tests (mocha,assert):
-`mocha test.js`
+`<script src="./path/to/main.js" type="text/javascript">`
 
 ## How to use
 `"does this eval to true".isTrue() === true `
@@ -37,6 +34,9 @@ Numbers, Arrays & Objects too! (don't forget the paratheses, otherwise js thinks
 `({}).isTrue() === true // js likes parans around obj/array declarations`
 
 `([]).isTrue() === true `
+
+## run tests (mocha,assert):
+`mocha test.js`
 
 ## Future
 I can't think of a future for extentending this simple function.  Share your thoughts if you have ideas!
