@@ -1,0 +1,26 @@
+{
+  "name": "istrue",
+  "version": "1.0.0",
+  "description": "A useful function to check if a javascript object evaluates to `true`",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/codeocelot/isTrue.git/"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "iojs",
+    "javascript",
+    "js",
+    "truth",
+    "truthy",
+    "boolean",
+    "bool"
+  ],
+  "author": "= <=>",
+  "license": "BSD"
+}

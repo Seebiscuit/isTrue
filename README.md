@@ -2,7 +2,15 @@
 A useful function to check if a javascript object evaluates to `true`
 
 ## Getting started
-I haven't hosted this on npm/bower/require/whatever yet. For now, 
+Bower:
+
+`bower install isTrue`
+
+npm: 
+
+`npm install istrue --save`
+
+Or clone from github:
 
 `git clone https://github.com/codeocelot/istrue.git`.  
 

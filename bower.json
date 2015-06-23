@@ -1,0 +1,27 @@
+{
+  "name": "isTrue",
+  "version": "0.0.0",
+  "homepage": "https://github.com/codeocelot/isTrue",
+  "description": "A useful function to check if a javascript object evaluates to true",
+  "main": "main.js",
+  "keywords": [
+    "truthy",
+    "boolean",
+    "js",
+    "javascript",
+    "node",
+    "iojs",
+    "nodejs"
+  ],
+  "authors": [
+    "codeocelot"
+  ],
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
